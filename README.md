@@ -1,6 +1,6 @@
 <img style="float: right;" alt="chickenpi logo" src="https://github.com/joergsesterhenn/chickenpi/raw/master/chickenpi.png" height="200">
 
-# chickenpi-client  [![Build Status](https://travis-ci.org/joergsesterhenn/chickenpi-app.svg?branch=docs)](https://travis-ci.org/joergsesterhenn/chickenpi-app) <a href="https://sonarcloud.io/dashboard?id=de.chickenpi:chickenpi-app"><img alt="quality gate status" src="https://sonarcloud.io/api/badges/gate?key=de.chickenpi:chickenpi-app"/></a> <a href="https://david-dm.org/joergsesterhenn/chickenpi-app"> <img alt="dependencies up to date status" src="https://david-dm.org/joergsesterhenn/chickenpi-app.svg"/></a>
+# chickenpi-client  [![Build Status](https://travis-ci.org/joergsesterhenn/chickenpi-client.svg?branch=master)](https://travis-ci.org/joergsesterhenn/chickenpi-client) <a href="https://sonarcloud.io/dashboard?id=de.chickenpi:chickenpi-client"><img alt="quality gate status" src="https://sonarcloud.io/api/badges/gate?key=de.chickenpi:chickenpi-client"/></a> <a href="https://david-dm.org/joergsesterhenn/chickenpi-client"> <img title="dependencies status" src="https://david-dm.org/joergsesterhenn/chickenpi-client/status.svg"/></a><a href="https://david-dm.org/joergsesterhenn/chickenpi-client?type=dev" title="devDependencies status"><img src="https://david-dm.org/joergsesterhenn/chickenpi-client/dev-status.svg"/></a>
 Chickenpi is a node.js/raspberry pi chicken coop management solution - currently in inception phase.
 This repository holds the client. 
 
@@ -21,4 +21,7 @@ _Ideas for later_
 * [RFID](http://www.sunspot.co.uk/Projects/RFID/Chickens_RFID.html)
 
 # Architecture of chickenpi
+* [chickenpi overview](https://github.com/joergsesterhenn/chickenpi)
+* [chickenpi-app](https://github.com/joergsesterhenn/chickenpi-app)
+
 <img alt="architecture" src="https://github.com/joergsesterhenn/chickenpi/blob/master/chickenpi_architecture.png" height="400">
