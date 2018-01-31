@@ -9,11 +9,13 @@ This repository holds the client.
 * [onoff](https://github.com/fivdi/onoff) 
 * [socket.io](https://github.com/socketio/socket.io)
 * [firebase-sdk](https://firebase.google.com/support/release-notes/js)
+* [ds18b20](https://github.com/chamerling/ds18b20) 
+  * https://www.rs-online.com/designspark/temperature-to-speech-with-raspberry-pi-2-and-resin-io
 
 
 ## Hardware
 * raspberry pi 2 + edimax USB Wifi dongle
-* temperature and humidity sensor DHT22
+* temperature sensor DS18B20 
 * motor controller board L98N + servo motor (for coop door)
 * 4 relay module (for lights, ...)
 
