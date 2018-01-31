@@ -14,6 +14,9 @@ This repository holds the client.
 
 
 ## Hardware
+<img alt="hardware" src="https://github.com/joergsesterhenn/chickenpi-client/blob/master/chickenpi_Steckplatine.png" height="400">
+
+
 * raspberry pi 2 + edimax USB Wifi dongle
 * temperature sensor DS18B20 
 * motor controller board L98N + servo motor (for coop door)
