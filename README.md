@@ -32,7 +32,7 @@ _Ideas for later_
 <img alt="architecture" src="https://github.com/joergsesterhenn/chickenpi/blob/master/chickenpi_architecture.png" height="400">
 
 
- ###Big Thanks
+ ## Big Thanks
 
 Cross-browser Testing Platform and Open Source <3 Provided by [Sauce Labs][homepage]
 
